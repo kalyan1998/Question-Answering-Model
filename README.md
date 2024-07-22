@@ -1,7 +1,5 @@
 # Spoken SQuAD Question Answering with BERT and DistilBERT
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=Spoken+SQuAD+Question+Answering)
-
 ## Project Description
 
 This project implements a question-answering system using BERT and DistilBERT models to handle spoken documents. The models are fine-tuned on the Spoken SQuAD dataset, which includes spoken form documents and text questions, to improve their ability to understand and generate accurate answers in noisy conditions.
